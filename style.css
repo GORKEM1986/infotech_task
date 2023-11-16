@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  margin: 20px 20px;
+  color: crimson;
+}
+
+footer {
+  background: #000;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a:active {
+  color: red;
+}
+
+nav a:hover {
+  background-color: gray;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.par {
+  background-color: aquamarine;
+}
+
+#bolum3 {
+  background-color: pink;
+}
+
+td {
+  text-align: center;
+  background-color: orange;
+}
+
+th {
+  background-color: rgb(129, 121, 137);
+}
